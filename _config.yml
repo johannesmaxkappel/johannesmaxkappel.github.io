@@ -14,7 +14,7 @@ name                     : &name "Johannes Kappel"
 description              : &description "personal description"
 url                      : "https://johannesmaxkappel.github.io/"
 baseurl                  : ""
-repository               : "johannesmaxkappel/johanneskappel"
+repository               : "johannesmaxkappel/johannesmaxkappel.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
