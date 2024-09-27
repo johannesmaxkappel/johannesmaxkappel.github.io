@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Johannes Kappel"
+title: ""
 author_profile: true
 ---
 
 ## Welcome to My Academic Profile
 
-I am [your title/position], currently working at [your institution]. My research focuses on [your research focus], and I am passionate about [related topics of interest].
+I am an EMBO Postdoctoral Fellow in the lab of Rainer Friedrich at the Friedrich Miescher Institute. My research focus lies on mechanistic cognitive neuroscience by employing analysis of behavior, functional activity and synaptic wiring diagrams. 
 
 
-### Recent Publications
 Check out my [publications](/publications) and [projects](/projects).
 
 Feel free to reach out via [email](mailto:johannes.kappel@fmi.ch).

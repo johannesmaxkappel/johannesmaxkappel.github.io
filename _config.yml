@@ -22,7 +22,7 @@ repository               : "johannesmaxkappel/johannesmaxkappel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headshot.png"
+  avatar           : "images/headshot.jpg"
   name             : "Johannes Kappel"
   pronouns         : # example: "she/her"  
   bio              : ""
