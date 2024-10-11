@@ -12,3 +12,5 @@ I am an EMBO Postdoctoral Fellow in the lab of Rainer Friedrich at the Friedrich
 Check out my [publications](/publications) and [projects](/projects).
 
 Feel free to reach out via [email](mailto:johannes.kappel@fmi.ch).
+
+![Neural networks in the zebrafish brain](/images/brain.png)
